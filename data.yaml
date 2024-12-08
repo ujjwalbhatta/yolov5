@@ -1,0 +1,5 @@
+train: /home/usd.local/ujjwal.bhatta/ComputerVision-YOLO/Dataset/train
+val: /home/usd.local/ujjwal.bhatta/ComputerVision-YOLO/Dataset/val
+
+nc: 9  # Number of classes
+names: ["Car", "Pedestrian", "Van", "Cyclist", "Truck", "Misc", "Tram", "Person_Sitting", "DontCare"]
